@@ -1,0 +1,28 @@
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+h2 {
+    font-family: "Audiowide", sans-serif;
+    font-size: 2em;
+    text-shadow: 3px 3px 3px #ababab;
+}
+#aside-column {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+    text-shadow: 3px 3px 3px #ababab;
+}
+#group-elements{
+    margin: 15px auto;
+    text-align: left;
+    width: 960px;
+}
+#header-title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #FFFBB9;
+    border: 1px solid #999999;
+    padding: 1em;
+}
+#menu {
+    background: #CCCCCC;
+    padding: 5px 1em;
+}
